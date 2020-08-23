@@ -1,0 +1,9 @@
+Webpack(import/export)
+    EsLint - support pure and clean code in one style
+    SCSS - pre-processor for easy use CSS
+    Babel - transpile new JS to old versions for old browsers
+    2 MODS
+        DEVELOPMENT - Dev server, EsLint, Not minified JS && CSS, Sourcemap
+        PRODUCTION - Minified JS && CSS
+GIT
+    Control versions of production and development
